@@ -104,10 +104,27 @@ This solution involves a fully automated end-to-end ETL pipeline, designed to fe
 
 ## 📁 Project Files
 
-| File | Description |
-|------|--------------|
-| `LogisticsDashboard.pbix` | Power BI file |
+## 📁 Project Files
+
+| File/Folder | Description |
+|-------------|-------------|
+| `LogisticsDashboard.pbip` | Complete Power BI file |
+| `assets/data_pipeline.png` | Full end-to-end data pipeline flow diagram |
+| `assets/sample_data.xlsx` | Sample anonymized dataset used for dashboard creation |
+| `assets/sample_sql_queries.sql` | Sample SQL queries used for data extraction and transformation from Azure SQL Database to Power BI |
+| `README.md` | Complete project documentation |
 | `Video Demo | Demo video |
+
+---
+
+## 🗺️ Additional Documentation
+
+- The **Data Pipeline Flow Diagram** has been included (`assets/data_pipeline.png`) to demonstrate the entire end-to-end architecture of this project.
+- **Sample Data File** (`assets/sample_data.xlsx`) is provided to help reviewers understand the data structure used.
+- **Sample SQL Queries** (`assets/sample_sql_queries.sql`) have been included to give a glimpse of the transformations and data fetching logic applied inside Azure SQL Database before connecting to Power BI.
+
+---
+
 
 ---
 
