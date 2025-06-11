@@ -1,5 +1,7 @@
 # 🚚 Logistics Client - Power BI Dashboard Project
 
+Project Video Demo : https://www.linkedin.com/posts/xyzainm_powerbi-logisticsanalytics-automation-activity-7327285466838253569-bjFG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl1dEcB-SNXE2ySJqDrVh7vol8oEzZyGI0
+
 ---
 
 ## 📝 Project Background
@@ -96,7 +98,7 @@ This solution involves a fully automated end-to-end ETL pipeline, designed to fe
 
 > ⚠ If file size exceeds GitHub limit, video will be hosted externally.
 
-[🎞️ Click to Watch Dashboard Walkthrough](./assets/powerbi_dashboard_demo.mp4)
+[🎞️ Click to Watch Dashboard Walkthrough](https://www.linkedin.com/posts/xyzainm_powerbi-logisticsanalytics-automation-activity-7327285466838253569-bjFG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADl1dEcB-SNXE2ySJqDrVh7vol8oEzZyGI0))
 
 ---
 
@@ -105,8 +107,7 @@ This solution involves a fully automated end-to-end ETL pipeline, designed to fe
 | File | Description |
 |------|--------------|
 | `LogisticsDashboard.pbix` | Power BI file |
-| `assets/powerbi_dashboard_demo.mp4` | Demo video |
-| `Data Sample.xlsx` | Sample anonymized dataset |
+| `Video Demo | Demo video |
 
 ---
 
